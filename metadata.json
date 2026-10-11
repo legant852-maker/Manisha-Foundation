@@ -1,0 +1,8 @@
+{
+  "name": "Manisha Foundation | कै. सौ. मनीषा सामाजिक व शैक्षणिक संस्था",
+  "description": "Official website of Manisha Foundation (कै. सौ. मनीषा सामाजिक व शैक्षणिक संस्था, नाशिक) - Reg. No. F-0021881 NSK. Dedicated to educational, social welfare, healthcare, and community empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
